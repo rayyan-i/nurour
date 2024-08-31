@@ -1,0 +1,38 @@
+.main{
+    display: flex;
+    margin: 2000px;
+}
+.b1{
+    margin-left: 0;
+    padding: 0;
+    float: left;
+    display: inline-block;
+}
+.b3{
+   
+   }
+.b4{
+    display: flex;
+}
+.main2{
+ 
+}
+.pic4{
+    width: 2000px;
+}
+.p5{
+      float: left;  
+}
+.main3{
+    display: flex;
+}
+.m1{
+    display: flex;
+}
+.m2{
+    display: flex;
+}
+.main2{
+    margin: auto 0;
+}
+
